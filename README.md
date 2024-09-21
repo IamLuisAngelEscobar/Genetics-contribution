@@ -10,4 +10,4 @@ Scripts to support a study of mezcal yeast diversity
 -A fastq file is readed. The guanine and cytosine quantity is counted
 
 **Sequence_Quality_ScoresII.py**
--The sequence quality scores are evaluate in order to find a possible anomaly. The expected symmetry of the graph is used to find anormal data
+-The sequence quality scores are evaluate in order to find a possible anomaly. The expected symmetry of the graph is used to find abnormal data
